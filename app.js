@@ -1,5 +1,7 @@
+//Isso é um teste!
+
 let tentativas = 1;
-let numeroLimite = 10;
+let numeroLimite = 100;
 let listaSorteados = [];
 numeroSecreto = gerarNumeroRandomico();
 
