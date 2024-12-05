@@ -1,5 +1,5 @@
-//Isso é um teste!
-
+// Esse repositório faz parte de um tutorial de Git
+// Isso é um teste
 let tentativas = 1;
 let numeroLimite = 100;
 let listaSorteados = [];
